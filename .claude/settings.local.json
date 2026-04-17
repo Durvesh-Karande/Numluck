@@ -6,7 +6,8 @@
       "Bash(python3 -m http.server 9090)",
       "Read(//tmp/**)",
       "mcp__Claude_in_Chrome__browser_batch",
-      "Bash(start \"C:/Users/Admin/Downloads/Numluck/index.html\")"
+      "Bash(start \"C:/Users/Admin/Downloads/Numluck/index.html\")",
+      "Bash(cp -r \"C:/Users/Admin/Downloads/Numluck/Project - Assets/Project - Assets/\"* \"C:/Users/Admin/Downloads/Numluck/assets/\")"
     ]
   }
 }
